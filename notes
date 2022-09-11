@@ -1,0 +1,53 @@
+interpreted lang: execute code line by line
+
+complied lang ====> parsing code to machine lang 0 ,1 ---> execute the code as one unit
+
+Python is interpreted lang ---> execute the code line by
+
+python ---> interpreter --->
+
+
+
+#### define variable, comment , function
+--------------------------- Information --->students  in the university ----------------------
+
+student  ---> name, nationalid, address, level
+## name, nid, addresss, level
+s1 = ["Ahmed", "124566", "Cairo", 0]  # miss understanding
+
+student1 = {
+    "name":"Ahmed" ,
+    "nid":"124566",
+    "address":"Cairo",
+    "level": 0
+}  # label data
+
+student2 = {
+    "firstname":"Ahmed" ,
+    "nationalid":"124566",
+    "City":"Cairo",
+    "level": 0
+}
+
+
+# class ---> Type ---> blueprint for creating objects
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
